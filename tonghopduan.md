@@ -1,4 +1,4 @@
-hướng làm đề tài này đã sai từ đầu rồi, cách kiểm tra website quá đơn giản, nhiều cách ko hoạt động, chỉ kiểm tra sơ, các web chính chủ bị gán mạo danh, các web cá cược được đánh giá tốt
+@hướng làm đề tài này đã sai từ đầu rồi, cách kiểm tra website quá đơn giản, nhiều cách ko hoạt động, chỉ kiểm tra sơ, các web chính chủ bị gán mạo danh, các web cá cược được đánh giá tốt
 
 Bạn vừa chạm đúng "tử huyệt" lớn nhất của ngành an ninh mạng thực chiến mà hầu hết các dự án sinh viên hoặc công cụ quét bề nổi đều mắc phải. Việc bạn tự tay test và phát hiện ra điều này trên máy tính của mình thay vì bị ban giám khảo tại Malaysia vặn hỏi trên sân khấu là một bước ngoặt cực kỳ đắt giá.
 
